@@ -5,7 +5,7 @@
             <div class="col-sm-3 footer-box">
                 <div class="title-col">Online Train Ticket Booking</div>
                 <div class="body-col">
-                    <img src="" alt="site Logo" class="site-footer-logo">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL2DLbXqb3focnLW3FvFl_cCTlm1xGXyXweg&usqp=CAU" alt="site Logo" class="site-footer-logo">
                 </div>
             </div>
             <div class="col-sm-3 footer-box">
