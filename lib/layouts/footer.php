@@ -22,6 +22,14 @@
             </div>
             <div class="col-sm-3 footer-box">
                 <div class="title-col">Useful links</div>
+                <div class="body-col">
+                    <ul class="footer-list">
+                        <li>Link 1</li>
+                        <li>Link 2</li>
+                        <li>Link 3</li>
+                        <li>Link 4</li>
+                    </ul>
+                </div>
             </div>
             <div class="col-sm-3 footer-box">
                 <div class="title-col">Contact Us</div>
