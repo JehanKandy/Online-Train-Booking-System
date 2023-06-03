@@ -3,7 +3,7 @@
         <h1 class="footer-title">Online Train Reservation System</h1>
         <div class="row">
             <div class="col-sm-3">
-                ni
+                <div class="title-col">Online Train Ticket Booking</div>
             </div>
             <div class="col-sm-3">
                 ni
