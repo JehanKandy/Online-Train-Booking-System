@@ -44,6 +44,8 @@
                 </div>
             </div>
         </div>
+        <hr>
+        <p class="copy" style="text-align: center;">&copy; 2021 - 2023 <a href="https://github.com/JehanKandy" target="_blank">JehanKandy</a> | Project <a href="https://github.com/JehanKandy/Online-Train-Booking-System" target="_blank">The Train Ticket Booking</a> | All Rights Reserved </p>
     </div>
 </footer>
 
