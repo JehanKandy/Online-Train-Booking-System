@@ -1,3 +1,5 @@
+<?php include("header.php"); ?>
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <footer class="site-footer">
     <div class="container">
         <h1 class="footer-title">Online Train Reservation System</h1>
@@ -35,13 +37,13 @@
                 <div class="title-col">Contact Us</div>
                 <div class="body-col">
                     <ul class="footer-list">
-                        <li></li>
-                        <li>Link 2</li>
-                        <li>Link 3</li>
-                        <li>Link 4</li>
+                        <li>jehankandy@gmail.com</li>
+                        <li>+94 711758851</li>
+                        <li>88, ABC Street, XYZ</li>                        
                     </ul>
                 </div>
             </div>
         </div>
     </div>
 </footer>
+
