@@ -4,6 +4,9 @@
         <div class="row">
             <div class="col-sm-3 footer-box">
                 <div class="title-col">Online Train Ticket Booking</div>
+                <div class="body-col">
+                    <img src="" alt="site Logo" class="site-footer-logo">
+                </div>
             </div>
             <div class="col-sm-3 footer-box">
                 <div class="title-col">Services</div>
